@@ -6,7 +6,7 @@ if my_tuple == my_tuple[::-1]:
 else:
     print("Not a Palindrome")
 
-if my_tuple1 == my_tuple[::-1]:
+if my_tuple1 == my_tuple1[::-1]:
     print("Palindrome")
 else:
     print("Not a Palindrome")
