@@ -1,0 +1,1 @@
+nt(f"{chosen_item} purchased! Remaining stock: {inventory[chosen_item]}")
